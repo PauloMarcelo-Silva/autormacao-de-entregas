@@ -1,0 +1,3 @@
+=== Algoritmo Guloso ===
+Custo: 326 minutos
+casa -> Sertaozinho -> produtos regionais -> Rivani -> paulo -> empor io matuto -> casa da ilha -> rodrigo -> casa

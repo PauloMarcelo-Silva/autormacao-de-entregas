@@ -1,0 +1,3 @@
+=== Algoritmo Guloso ===
+Custo: 242 minutos
+transportadora -> emporio matuto -> casa da ilha -> Rivani -> produtos regionais -> Sertaozinho -> paulo -> rodrigo -> casa
